@@ -1,0 +1,25 @@
+div-21-system-orchestrator/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── docs/
+│   ├── orchestrator-architecture.md
+│   ├── routing-protocols.md
+│   └── control-plane-spec.md
+│
+├── src/
+│   ├── core/
+│   │   ├── MasterRouter.ts
+│   │   └── EventBus.ts
+│   │
+│   ├── api/
+│   │   └── orchestrator.ts
+│   │
+│   └── app/
+│       ├── layout.tsx
+│       └── page.tsx
+│
+└── public/
+    └── logo.png
