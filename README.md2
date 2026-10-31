@@ -1,0 +1,22 @@
+# Beast 3.0 System Orchestrator Control Plane
+
+The System Orchestrator is the central nervous system of the Beast 3.0 ecosystem, routing requests, broadcasting events, and synchronizing state across all 21 division repositories.
+
+## Mission
+
+Provide a deterministic, high-performance master control plane that unifies all modular divisions into a cohesive decentralized governance and resource distribution engine.
+
+## Core Responsibilities
+
+- Master Gateway Request Routing & Proxying
+- Inter-Division Event Bus & Pub/Sub Messaging
+- Ecosystem Health & Module Discovery
+- Global Pipeline Coordination
+
+## Connected Systems
+
+- Connects and orchestrates **Divisions 01 through 20** into a unified autonomous network.
+
+## Status
+
+Development
